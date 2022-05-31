@@ -5,8 +5,8 @@ import (
 	"flag"
 	"log"
 
-	"github.com/datastax/terraform-provider-astra/v2/internal/provider"
 	"github.com/hashicorp/terraform-plugin-sdk/v2/plugin"
+	"github.com/mapped/terraform-provider-astra/v2/internal/provider"
 )
 
 // Run "go generate" to format example terraform files and generate the docs for the registry/website
